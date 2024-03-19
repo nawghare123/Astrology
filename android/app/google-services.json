@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "821037786920",
+    "project_id": "astrology-e89d5",
+    "storage_bucket": "astrology-e89d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821037786920:android:54e8bd6a3604d4dfc7521d",
+        "android_client_info": {
+          "package_name": "com.example.astrology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821037786920-610jnq8un04p4cu670m8vrq5blel6p1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astrology",
+            "certificate_hash": "999cc4fa2e399de420a49995c304d8dc319640e3"
+          }
+        },
+        {
+          "client_id": "821037786920-g5i6ls8ilvaue3ner4g77bpen5lcrnpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb6hDjCUfCRkLdUdq0W73ErKWdNTXuWB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821037786920-g5i6ls8ilvaue3ner4g77bpen5lcrnpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

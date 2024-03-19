@@ -1,0 +1,13 @@
+{
+  
+  "base_url": "https://astro.hirectjob.in/",
+  "api_base_url": "https://astro.hirectjob.in/api/",
+  "media_url": "https://astro.hirectjob.in",
+
+  "flutterWave_publicKey": "Your flutter wave Public Key Here",
+  "place_search_key": "Your Google Search Key Here",
+  "razorpay_key": "Your Razor Pay Key Here"
+
+}
+
+
