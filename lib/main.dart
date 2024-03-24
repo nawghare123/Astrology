@@ -1,6 +1,5 @@
 import 'dart:developer';
 import 'dart:io';
-
 import 'package:agora_rtc_engine/rtc_engine.dart';
 import 'package:consultant_product/multi_language/languages.dart';
 import 'package:consultant_product/route_generator.dart';
@@ -72,6 +71,7 @@ Future<void> main() async {
       serviceWorkerController.setServiceWorkerClient(AndroidServiceWorkerClient(
         shouldInterceptRequest: (request) async {
           return null;
+          // sdjkjksd
         },
       ));
     }
